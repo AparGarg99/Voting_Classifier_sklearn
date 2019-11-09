@@ -3,4 +3,4 @@
 * [Click here](https://youtu.be/dD7gvbfBiyA)
 * Click on the image below
 
-[![Voting Classifier in Python](![VC](https://user-images.githubusercontent.com/54896849/68530243-c9f5e080-032c-11ea-87fb-5b266c90ace5.PNG)](https://youtu.be/dD7gvbfBiyA)
+[![VC](https://user-images.githubusercontent.com/54896849/68530338-5accbc00-032d-11ea-99ea-fce36d2e5326.PNG)](https://youtu.be/dD7gvbfBiyA)
